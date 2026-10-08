@@ -1,0 +1,7 @@
+{
+  "/api/workouts/route": "app/api/workouts/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/my-plan/page": "app/my-plan/page.js",
+  "/page": "app/page.js",
+  "/workout/[id]/page": "app/workout/[id]/page.js"
+}
