@@ -18,3 +18,12 @@ You can view the live deployment of this project here: bespoke-maamoul-3f3686.ne
 - **📱 Fully Responsive Design:** Clean, dark-themed UI optimized heavily for both mobile screens and desktop monitors.
 
 ---
+## 🛠️ Technologies Used
+
+- **Framework:** Next.js 14 (App Router)
+- **Styling:** Tailwind CSS & FontAwesome Icons
+- **State Management:** React Context API (`WorkoutContext`)
+- **Notifications:** React Hot Toast
+- **Deployment:** Netlify (Static Export)
+
+---
