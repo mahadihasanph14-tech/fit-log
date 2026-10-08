@@ -27,3 +27,9 @@ You can view the live deployment of this project here: bespoke-maamoul-3f3686.ne
 - **Deployment:** Netlify (Static Export)
 
 ---
+
+## 🛑 Bottom Line
+
+**FitLog** isn't just another generic exercise list app; it’s a lightweight, blazing-fast terminal for your daily grind. Built specifically to eliminate the overhead of traditional clunky workout trackers, it ensures you spend less time configuring your session and more time moving the iron. 
+
+No bloating, no server lag—just smooth client-side tracking tailored for your peak performance. Now go load those plates, log those lifts, and make every single rep count! 💪🔥
