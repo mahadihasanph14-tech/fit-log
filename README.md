@@ -4,6 +4,6 @@ FitLog is a modern, fast, and responsive web application designed to help fitnes
 
 ---
 ## 🚀 Live Demo
-You can view the live deployment of this project here: [Your Netlify Live Link Here]
+You can view the live deployment of this project here: [bespoke-maamoul-3f3686.netlify.app]
 
 ---
